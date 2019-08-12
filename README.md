@@ -1,4 +1,4 @@
-# CrudConta [![Build Status](https://travis-ci.org/LucasBrizola/CrudConta.svg?branch=master)](https://travis-ci.org/LucasBrizola/CrudConta)
+# CrudConta
 
 Efetuar o desenvolvimento de uma api REST em Java com o seguinte endpoint:
     Conta
